@@ -1,3 +1,4 @@
+#codigo
 def encrypt_image(image_path, key):
     try:
         with open(image_path, 'rb') as image_file:
@@ -55,7 +56,7 @@ def decrypt_image(encrypted_image_path, key):
         return None
 
 # Ejemplo de uso
-image_path = 'ruta_de_tu_imagen.png'  # Reemplaza con la ruta de tu imagen
+image_path = 'chiesa.jpeg'  # Reemplaza con la ruta de tu imagen
 key = 'SECRET'  # Puede ser cualquier cadena de caracteres
 
 # Encriptar la imagen
