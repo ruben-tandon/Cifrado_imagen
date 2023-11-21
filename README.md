@@ -1,1 +1,1 @@
-pip install pycryptodome
+tener imagen de chiesa
